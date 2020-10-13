@@ -114,6 +114,6 @@ icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
 link = "#"
 
 [[params.social]]
-title = "github"
+title = "pinterest"
 icon = "ti-pinterest" # themify icon : https://themify.me/themify-icons
 link = "#"
