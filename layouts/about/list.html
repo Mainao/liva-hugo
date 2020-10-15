@@ -26,11 +26,19 @@
     <div class="row no-gutters">
       {{ range .gallery }}
       <div class="col-lg-2 col-md-3 col-sm-4 col-6">
-        <a href="{{ .image | absURL}}" class="venobox" data-gall="gallery"><img class="img-fluid w-100"
-            src="{{ .image | absURL}}" alt=""></a>
+        <!-- <a href="{{ .image | absURL}}" class="venobox" data-gall="gallery"><img class="img-fluid w-100"
+            src="{{ .image | absURL}}" alt=""></a> -->
+        <a  href="https://www.pinterest.com/pin/139752394664775546/"data-pin-do="embedPin" class="venobox" data-gall="gallery">
+          <img class="img-fluid w-100" src="{{ .image | absURL}}" alt="">
+        </a>
       </div>
       {{ end }}
     </div>
+    <script
+        type="text/javascript"
+        async defer
+        src="//assets.pinterest.com/js/pinit.js"
+    ></script>
   </div>
 </section>
 {{ end }}
