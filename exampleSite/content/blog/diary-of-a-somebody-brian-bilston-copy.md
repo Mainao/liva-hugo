@@ -5,7 +5,7 @@ description = "this is meta description"
 draft = true
 image = "images/post/post-2.jpg"
 tags = ["Photos", "HTML", "Python", "New"]
-title = "Diary of a Somebody - Brian Bilston-(copy)"
+title = "5 Books under 100 pages"
 type = "featured"
 
 +++
