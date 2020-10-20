@@ -2,7 +2,6 @@
 categories = ["Go Language"]
 date = 2019-10-29T04:07:47Z
 description = "this is meta description"
-draft = true
 image = "images/post/post-2.jpg"
 tags = ["Photos", "HTML", "Python", "New"]
 title = "5 Books under 100 pages"
