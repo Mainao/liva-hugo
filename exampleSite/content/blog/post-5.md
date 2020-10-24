@@ -19,17 +19,20 @@ So this new year Brian has a resolution. He decides to write a poem every day a 
 
 How the everyday mundane was transformed into witty poems and hilarious diary entries is what makes this book so wonderful to read.
 
->  Duvet,  
->  you are so groovet,  
->  I’d like to stay under you  
->  all of Tuesdet.
+<hr>
+
+> Duvet,  
+> you are so groovet,  
+> I’d like to stay under you  
+> all of Tuesdet.
+
+<hr>
 
 The use of clever wordplay, puns, and rhymes leaves you smiling and giggling.
 
->  Duvet,  
->  you are so groovet,  
->  I’d like to stay under you  
->  all of Tuesdet.
+<hr>
+
+> I have decided to fight fire with fire to fight my fear of being fired.
 
 <hr>
 
