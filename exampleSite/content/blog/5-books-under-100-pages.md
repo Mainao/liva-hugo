@@ -1,18 +1,13 @@
----
-title: Diary of a Somebody - Brian Bilston
-date: 2019-10-29T10:07:47.000+06:00
-image: images/post/post-2.jpg
-description: this is meta description
-categories:
-- Go Language
-tags:
-- Photos
-- HTML
-- Python
-- New
-type: featured
++++
+categories = ["Go Language"]
+date = 2019-10-29T04:07:47Z
+description = "this is meta description"
+image = "images/post/post-2.jpg"
+tags = ["Photos", "HTML", "Python", "New"]
+title = "5 Books under 100 pages"
+type = "featured"
 
----
++++
 
 The pseudonymous Brian Bilston’s life seems, by all accounts, to be unexciting. His ex-wife has taken up with a new man and his relationship with his son is unsatisfactory. He is frustrated with his job where he needs to continue struggling with spreadsheets and management jargon.
 
